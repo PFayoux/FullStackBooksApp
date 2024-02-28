@@ -1,5 +1,10 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
+import type { Test } from './src/types';
+
+const a: Test = {
+  a: "e"
+}
 
 export default function App() {
   return (
