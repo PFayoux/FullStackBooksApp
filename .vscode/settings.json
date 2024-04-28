@@ -1,0 +1,6 @@
+{
+  "eslint.format.enable": true,
+  "eslint.lintTask.options": "-c .eslintrc.json .",
+  "eslint.lintTask.enable": true,
+  "eslint.run": "onSave"
+}
